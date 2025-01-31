@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Rai</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanrai35&label=Profile%20views&color=0e75b6&style=flat" alt="amanrai35" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanrai35" alt="amanrai35" /></a> </p>
-
 - 🌱 I’m currently learning **CompTIA A+, Linux, Python**
 
 - 📫 How to reach me **raiaman9123@gmail.com**
